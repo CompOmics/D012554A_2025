@@ -11,7 +11,7 @@ _Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
 
 ## Schedule
 
-| Week | Weekdag | Start datum | Starttijd | Eind datum | Eindtijd | Aard | Lokaal, Gebouw, Campus | Lesgever | Practicumhelper | Commentaar |
+| Week | Weekdag | Start datum | Starttijd | Eind datum | Eindtijd | Titel | Aard | Lokaal, Gebouw, Campus | Lesgever | Practicumhelper | Commentaar |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | W 10 | Maandag | 02-03-2026 | 08:30 | 02-03-2026 | 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Robbin Bouwmeester |  | Introduction + regression |
 | W 10 | Maandag | 02-03-2026 | 13:00 | 02-03-2026 | 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Alireza | SimpleLR |
