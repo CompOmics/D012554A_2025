@@ -77,7 +77,7 @@ Lecture slides:
 
 ---
 
-**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal -1.2. B3. Campus UZ Gent)** (!!! XXX)
+**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal -1.2. B3. Campus UZ Gent)** (Alireza Nameni)
 
 Hands on: 
 
