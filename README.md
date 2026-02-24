@@ -54,6 +54,7 @@ Lecture slides:
 **13:00 - 16:00 | Introduction to Machine Learning (Leslokaal 3.2. K3. Campus UZ Gent)** (Alireza Nameni)
 
 Hands on: 
+
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
@@ -74,9 +75,10 @@ Lecture slides:
 
 ---
 
-**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal -1.2. B3. Campus UZ Gent)** (Alireza Nameni)
+**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal -1.2. B3. Campus UZ Gent)** (!!! XXX)
 
 Hands on: 
+
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
