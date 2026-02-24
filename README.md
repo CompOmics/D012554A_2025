@@ -7,7 +7,7 @@ _Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
 - Fork this repository to obtain an editable copy.
 - Start by clicking on the `Open in Colab` button in each notebook.
 - After editing a notebook, it can be saved to GitHub in your own repository.
-- Kaggle competition: XXX !!!
+- Kaggle competition: [ml-methods-biomedical-data-2026](https://www.kaggle.com/competitions/ml-methods-biomedical-data-2026/)
 
 ## Schedule
 
@@ -55,11 +55,13 @@ Lecture slides:
 
 Hands on: 
 
-[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+[1.1a_Linear_regression.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_1/1.1a_Linear_regression.ipynb)
 
-[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+[1.1b_Exercises_Linear_regression.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_1/1.1b_Exercises_Linear_regression.ipynb) 
 
-[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+[1.2a_Non-linear_regression.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_1/1.2a_Non-linear_regression.ipynb)
+
+[1.2b_Exercises_Non-linear_regression.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_1/1.2b_Exercises_Non-linear_regression.ipynb)
 
 ### Day 2 (Tuesday - 3rd March)
 ---
