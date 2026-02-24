@@ -11,31 +11,31 @@ _Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
 
 ## Schedule
 
-| Week | Weekdag | Start datum | Starttijd | Eind datum | Eindtijd | Titel | Cursuscode, Naam | Aard | Lokaal, Gebouw, Campus | Lesgever | Practicumhelper | Commentaar |
+| Week | Weekdag | Start datum | Starttijd | Eind datum | Eindtijd | Titel | Aard | Lokaal, Gebouw, Campus | Lesgever | Practicumhelper | Commentaar |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| W 10 | Maandag | 02-03-2026 | 08:30 | 02-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Robbin Bouwmeester |  | Introduction + regression |
-| W 10 | Maandag | 02-03-2026 | 13:00 | 02-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Alireza | SimpleLR |
-| W 10 | Dinsdag | 03-03-2026 | 08:30 | 03-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Robbin Bouwmeester |  | logistic regression + regularization |
-| W 10 | Dinsdag | 03-03-2026 | 13:00 | 03-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal -1.2. B3. Campus UZ Gent |  |  | Model\_selection |
-| W 10 | Woensdag | 04-03-2026 | 08:30 | 04-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Auditorium C. Dwarsgebouw Links. Campus UZ Gent | Robbin Bouwmeester |  | Model complexity + bias and variance |
-| W 10 | Woensdag | 04-03-2026 | 13:00 | 04-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Caroe | Regularization |
-| W 10 | Donderdag | 05-03-2026 | 08:30 | 05-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 3.1. B3. Campus UZ Gent | Jasper Zuallaert |  |  |
-| W 10 | Donderdag | 05-03-2026 | 13:00 | 05-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans |  |  | Kaggle competition |
-| W 10 | Vrijdag | 06-03-2026 | 08:30 | 06-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans | Robbin Bouwmeester |  | Ensemble + autoML + other modern classical ML |
-| W 10 | Vrijdag | 06-03-2026 | 13:00 | 06-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Enrico | DT |
-| W 11 | Maandag | 09-03-2026 | 08:30 | 09-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 3.2. K3. Campus UZ Gent | Ralf Gabriels |  | Deep Neural Networks |
-| W 11 | Maandag | 09-03-2026 | 13:00 | 09-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Robbe |  |
-| W 11 | Dinsdag | 10-03-2026 | 08:30 | 10-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Ralf Gabriels |  | CNNs |
-| W 11 | Dinsdag | 10-03-2026 | 13:00 | 10-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal -1.2. B3. Campus UZ Gent |  | Sander |  |
-| W 11 | Woensdag | 11-03-2026 | 08:30 | 11-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Lokaal 0.1 - Rosalyn Yalow. Blok A. Campus Heymans | Ralf Gabriels |  | RNNs |
-| W 11 | Woensdag | 11-03-2026 | 13:00 | 11-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 3.1. K3. Campus UZ Gent |  | Robbe |  |
-| W 11 | Donderdag | 12-03-2026 | 08:30 | 12-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 3.2. K3. Campus UZ Gent | Ralf Gabriels |  | Transformers and co |
-| W 11 | Donderdag | 12-03-2026 | 13:00 | 12-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 5.2. B3. Campus UZ Gent |  | Sander |  |
-| W 11 | Vrijdag | 13-03-2026 | 08:30 | 13-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Auditorium C. Dwarsgebouw Links. Campus UZ Gent | Ralf Gabriels |  | Generative models |
-| W 11 | Vrijdag | 13-03-2026 | 13:00 | 13-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 3.1. K3. Campus UZ Gent |  | Alireza |  |
-| W 12 | Maandag | 16-03-2026 | 08:30 | 16-03-2026 | 11:30 |  | D012554A. Machine Learning Methods for Biomedical Data | hoorcollege | Leslokaal 5.1. B3. Campus UZ Gent | Ralf Gabriels, Robbin Bouwmeester |  | Microteaching |
-| W 12 | Maandag | 16-03-2026 | 13:00 | 16-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 5.1. B3. Campus UZ Gent |  |  |  |
-| W 25 | Donderdag | 18-06-2026 | 13:00 | 18-06-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | schriftelijke evaluatie met meerkeuzevragen, schriftelijke evaluatie met open vragen | Leslokaal 3.2. K3. Campus UZ Gent |  |  |  |
+| W 10 | Maandag | 02-03-2026 | 08:30 | 02-03-2026 | 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Robbin Bouwmeester |  | Introduction + regression |
+| W 10 | Maandag | 02-03-2026 | 13:00 | 02-03-2026 | 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Alireza | SimpleLR |
+| W 10 | Dinsdag | 03-03-2026 | 08:30 | 03-03-2026 | 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Robbin Bouwmeester |  | logistic regression + regularization |
+| W 10 | Dinsdag | 03-03-2026 | 13:00 | 03-03-2026 | 16:00 | werkcollege | Leslokaal -1.2. B3. Campus UZ Gent |  |  | Model\_selection |
+| W 10 | Woensdag | 04-03-2026 | 08:30 | 04-03-2026 | 11:30 | hoorcollege | Auditorium C. Dwarsgebouw Links. Campus UZ Gent | Robbin Bouwmeester |  | Model complexity + bias and variance |
+| W 10 | Woensdag | 04-03-2026 | 13:00 | 04-03-2026 | 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Caroe | Regularization |
+| W 10 | Donderdag | 05-03-2026 | 08:30 | 05-03-2026 | 11:30 | hoorcollege | Leslokaal 3.1. B3. Campus UZ Gent | Jasper Zuallaert |  |  |
+| W 10 | Donderdag | 05-03-2026 | 13:00 | 05-03-2026 | 16:00 | werkcollege | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans |  |  | Kaggle competition |
+| W 10 | Vrijdag | 06-03-2026 | 08:30 | 06-03-2026 | 11:30 | hoorcollege | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans | Robbin Bouwmeester |  | Ensemble + autoML + other modern classical ML |
+| W 10 | Vrijdag | 06-03-2026 | 13:00 | 06-03-2026 | 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Enrico | DT |
+| W 11 | Maandag | 09-03-2026 | 08:30 | 09-03-2026 | 11:30 | hoorcollege | Leslokaal 3.2. K3. Campus UZ Gent | Ralf Gabriels |  | Deep Neural Networks |
+| W 11 | Maandag | 09-03-2026 | 13:00 | 09-03-2026 | 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent |  | Robbe |  |
+| W 11 | Dinsdag | 10-03-2026 | 08:30 | 10-03-2026 | 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Ralf Gabriels |  | CNNs |
+| W 11 | Dinsdag | 10-03-2026 | 13:00 | 10-03-2026 | 16:00 | werkcollege | Leslokaal -1.2. B3. Campus UZ Gent |  | Sander |  |
+| W 11 | Woensdag | 11-03-2026 | 08:30 | 11-03-2026 | 11:30 | hoorcollege | Lokaal 0.1 - Rosalyn Yalow. Blok A. Campus Heymans | Ralf Gabriels |  | RNNs |
+| W 11 | Woensdag | 11-03-2026 | 13:00 | 11-03-2026 | 16:00 | werkcollege | Leslokaal 3.1. K3. Campus UZ Gent |  | Robbe |  |
+| W 11 | Donderdag | 12-03-2026 | 08:30 | 12-03-2026 | 11:30 | hoorcollege | Leslokaal 3.2. K3. Campus UZ Gent | Ralf Gabriels |  | Transformers and co |
+| W 11 | Donderdag | 12-03-2026 | 13:00 | 12-03-2026 | 16:00 | werkcollege | Leslokaal 5.2. B3. Campus UZ Gent |  | Sander |  |
+| W 11 | Vrijdag | 13-03-2026 | 08:30 | 13-03-2026 | 11:30 | hoorcollege | Auditorium C. Dwarsgebouw Links. Campus UZ Gent | Ralf Gabriels |  | Generative models |
+| W 11 | Vrijdag | 13-03-2026 | 13:00 | 13-03-2026 | 16:00 | werkcollege | Leslokaal 3.1. K3. Campus UZ Gent |  | Alireza |  |
+| W 12 | Maandag | 16-03-2026 | 08:30 | 16-03-2026 | 11:30 | hoorcollege | Leslokaal 5.1. B3. Campus UZ Gent | Ralf Gabriels, Robbin Bouwmeester |  | Microteaching |
+| W 12 | Maandag | 16-03-2026 | 13:00 | 16-03-2026 | 16:00 | werkcollege | Leslokaal 5.1. B3. Campus UZ Gent |  |  |  |
+| W 25 | Donderdag | 18-06-2026 | 13:00 | 18-06-2026 | 16:00 | schriftelijke evaluatie met meerkeuzevragen, schriftelijke evaluatie met open vragen | Leslokaal 3.2. K3. Campus UZ Gent |  |  |  |
 
 ### Day 1 (Monday - 2nd March)
 ---
