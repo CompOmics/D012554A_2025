@@ -37,49 +37,51 @@ _Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
 | W 12 | Maandag | 16-03-2026 | 13:00 | 16-03-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | werkcollege | Leslokaal 5.1. B3. Campus UZ Gent |  |  |  |
 | W 25 | Donderdag | 18-06-2026 | 13:00 | 18-06-2026 | 16:00 |  | D012554A. Machine Learning Methods for Biomedical Data | schriftelijke evaluatie met meerkeuzevragen, schriftelijke evaluatie met open vragen | Leslokaal 3.2. K3. Campus UZ Gent |  |  |  |
 
-### Day 1
+### Day 1 (Monday - 2nd March)
 ---
-**9:30 Introduction to Machine Learning** (Robbin Bouwmeester)
+**8:30 - 9:45 | Introduction to Machine Learning (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
-Lecture by Prof. Sven Degroeve:
-[YouTube](https://www.youtube.com/watch?v=N9p81OwKI18&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=1)
+Lecture slides:
+[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+
+**10:15 - 11:30 | Regression (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
 [1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
 
 ---
 
-**10:00 Data fitting** (Robbin Bouwmeester)
-
-Lecture by Prof. Sven Degroeve: 
-[YouTube](https://www.youtube.com/watch?v=MhXYAAYj69Q&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=2)
-
-Lecture slides:
-[2_regression.pptx](https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/2_regression.pptx)
-
-_Some discussion about gradient descent._
+**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal 3.2. K3. Campus UZ Gent)** (Alireza Nameni)
 
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+
+### Day 2 (Tuesday - 3rd March)
 ---
-
-**10:45 Break**
-
----
-
-**11:00 Logistic regression** (Robbin Bouwmeester)
-
-Lecture by Prof. Sven Degroeve:
-[YouTube](https://www.youtube.com/watch?v=JaoCcC1UIa4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=3)
+**8:30 - 9:45 | Logistic regression (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
-[3_logistic_regression.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/3_logistic_regression.pptx)
+[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
 
-Introduction to learning platform Kaggle + peptide retention time competition
+**10:15 - 11:30 | Regularization (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+
+Lecture slides:
+[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+
+---
+
+**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal -1.2. B3. Campus UZ Gent)** (Alireza Nameni)
 
 Hands on: 
-[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) sections 2, 3 and 4
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
 
 **16:50 Announcement of the competition winner & closing!**
