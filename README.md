@@ -1,7 +1,5 @@
 # D012554A 2025-2026
 
-_Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
-
 ## Getting started
 
 - Fork this repository to obtain an editable copy.
@@ -101,3 +99,7 @@ Hands on:
 ## Contact
 
 Ralf Gabriels (ralf.gabriels@ugent.be) & Robbin Bouwmeester (robbin.bouwmeester@ugent.be) 
+
+## Acknowledgements
+
+_Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
