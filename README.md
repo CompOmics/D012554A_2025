@@ -42,12 +42,12 @@ _Based on previous courses by [dr. Sven Degroeve](https://github.com/sdgroeve)._
 **8:30 - 9:45 | Introduction to Machine Learning (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
-[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+[1_introduction.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_1/1_introduction.pptx)
 
 **10:15 - 11:30 | Regression (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
-[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+[2_regression.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_1/2_regression.pptx)
 
 ---
 
