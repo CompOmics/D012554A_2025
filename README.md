@@ -8,6 +8,23 @@
 - Kaggle competition registration link: [Peptide LC RT prediction - D012554A_2025](https://www.kaggle.com/t/f7491cd93b0a4833b44dc0b6cbd58074)
 - Kaggle competition: [Peptide LC RT prediction - D012554A_2025](https://www.kaggle.com/competitions/peptide-lc-retention-time-prediction-d-012554-a-2025)
 
+## Microteaching papers
+
+1. [FAVA](https://academic.oup.com/bioinformatics/article/40/2/btae010/7513163)
+2. [FlowSOM](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22625)
+3. [3DeeCellTracker] (https://elifesciences.org/articles/59187)
+4. [proteome-wide biofluid data](https://www.nature.com/articles/s41467-025-67968-y)
+
+## Grading
+
+- Microteaching: 15%
+    - Presentation Monday 16/03 9:00
+- Kaggle Jupyter notebook: 15%
+    - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)    
+- Kaggle written report: 20%
+    - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)
+- Written exam: 50%
+    - Theoretical exam Thursday 18/06 13:00
 
 ## Schedule
 
