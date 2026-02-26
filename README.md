@@ -19,13 +19,13 @@
 
 - Microteaching: 15%
     - Presentation (~15 min) Monday 16/03 9:00
-    - [Description microteaching]()
+    - [Description microteaching](https://github.com/CompOmics/D012554A_2025/blob/main/assignments/microteaching_presentations.md)
 - Kaggle Jupyter notebook: 15%
     - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)
-    - [Description Jupyter notebook]()
+    - [Description Jupyter notebook](https://github.com/CompOmics/D012554A_2025/blob/main/assignments/kaggle_jupyter_notebook.md)
 - Kaggle written report: 20%
     - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)
-    - [Description written report]()
+    - [Description written report](https://github.com/CompOmics/D012554A_2025/blob/main/assignments/kaggle_written_report.md)
 - Written exam: 50%
     - Theoretical exam Thursday 18/06 13:00
 
