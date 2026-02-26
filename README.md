@@ -19,10 +19,13 @@
 
 - Microteaching: 15%
     - Presentation (~15 min) Monday 16/03 9:00
+    - [Description microteaching]()
 - Kaggle Jupyter notebook: 15%
-    - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)    
+    - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)
+    - [Description Jupyter notebook]()
 - Kaggle written report: 20%
     - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)
+    - [Description written report]()
 - Written exam: 50%
     - Theoretical exam Thursday 18/06 13:00
 
@@ -88,6 +91,9 @@ Hands on:
 </details>
 
 ### Day 2 (Tuesday - 3rd March)
+
+<details>
+
 ---
 **8:30 - 9:45 | Logistic regression (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
@@ -110,6 +116,9 @@ Hands on:
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
+
+</details>
+
 
 ## Further learning
 
