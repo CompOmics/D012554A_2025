@@ -18,7 +18,7 @@
 ## Grading
 
 - Microteaching: 15%
-    - Presentation Monday 16/03 9:00
+    - Presentation (~15 min) Monday 16/03 9:00
 - Kaggle Jupyter notebook: 15%
     - Hand-in Friday 20/03 23:59 (ralf.gabriels@ugent.be & robbin.bouwmeester@ugent.be)    
 - Kaggle written report: 20%
