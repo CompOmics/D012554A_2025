@@ -1,4 +1,3 @@
-
 ### Deliverable: Kaggle Notebook with an Embedded Report
 
 You are required to submit one comprehensive Kaggle Notebook that includes both your code and a brief report. The report should be written using markdown cells and organized into **three sections only**: **Methods, Results, and Discussion**. Use the following notebook structure as a guideline:
