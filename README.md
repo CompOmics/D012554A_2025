@@ -5,7 +5,9 @@
 - Fork this repository to obtain an editable copy.
 - Start by clicking on the `Open in Colab` button in each notebook.
 - After editing a notebook, it can be saved to GitHub in your own repository.
-- Kaggle competition: [ml-methods-biomedical-data-2026](https://www.kaggle.com/competitions/ml-methods-biomedical-data-2026/)
+- Kaggle competition registration link: [ml-methods-biomedical-data-2026](https://www.kaggle.com/t/f7491cd93b0a4833b44dc0b6cbd58074)
+- Kaggle competition: [ml-methods-biomedical-data-2026](https://www.kaggle.com/competitions/peptide-lc-retention-time-prediction-d-012554-a-2025)
+
 
 ## Schedule
 
