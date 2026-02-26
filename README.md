@@ -27,7 +27,7 @@
     - Theoretical exam Thursday 18/06 13:00
 
 ## Schedule
-
+<details>
 | Week | Weekdag | Start datum | Starttijd | Eind datum | Eindtijd | Aard | Lokaal, Gebouw, Campus | Lesgever | Practicumhelper | Commentaar | Commentaar |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | W 10 | Maandag | 02-03-2026 | 08:30 | 02-03-2026 | 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent | Robbin Bouwmeester |  | Introduction + regression |
@@ -53,8 +53,10 @@
 | W 12 | Maandag | 16-03-2026 | 08:30 | 16-03-2026 | 11:30 | hoorcollege | Leslokaal 5.1. B3. Campus UZ Gent | Ralf Gabriels, Robbin Bouwmeester |  | Microteaching |
 | W 12 | Maandag | 16-03-2026 | 13:00 | 16-03-2026 | 16:00 | werkcollege | Leslokaal 5.1. B3. Campus UZ Gent |  |  |  |
 | W 25 | Donderdag | 18-06-2026 | 13:00 | 18-06-2026 | 16:00 | schriftelijke evaluatie met meerkeuzevragen, schriftelijke evaluatie met open vragen | Leslokaal 3.2. K3. Campus UZ Gent |  |  |  |
+</details>
 
 ### Day 1 (Monday - 2nd March)
+<details>
 ---
 **8:30 - 9:45 | Introduction to Machine Learning (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
@@ -79,6 +81,7 @@ Hands on:
 [1.2a_Non-linear_regression.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_1/1.2a_Non-linear_regression.ipynb)
 
 [1.2b_Exercises_Non-linear_regression.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_1/1.2b_Exercises_Non-linear_regression.ipynb)
+</details>
 
 ### Day 2 (Tuesday - 3rd March)
 ---
