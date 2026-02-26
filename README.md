@@ -87,9 +87,6 @@ Hands on:
 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
-
-**16:50 Announcement of the competition winner & closing!**
-
 ## Further learning
 
 - [Coursera ML course](https://www.coursera.org/specializations/machine-learning-introduction)
