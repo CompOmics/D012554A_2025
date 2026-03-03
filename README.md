@@ -130,19 +130,24 @@ Hands on:
 <details>
 
 ---
-**9:00 - 9:45 | Logistic regression (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+**9:00 - 9:45 | Decision trees and ensembles (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
-[5_SVM.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_3/5_SVM.pptx)
-
-**10:15 - 11:30 | Regularization (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+[5_DecisionTrees.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_3/5_DecisionTrees.pptx)
 
 Lecture slides:
 [6_ensemble_learning.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_3/6_ensemble_learning.pptx)
 
+
+**10:15 - 11:30 | Kaggle and handson (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+
+[3.1a_Histone_marks_dt.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_3/3.1a_Histone_marks_dt.ipynb)
+
+[3.1b_Exercises_Histone_marks_dt.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_3/3.1b_Exercises_Histone_marks_dt.ipynb)
+
 ---
 
-**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal -1.2. B3. Campus UZ Gent)** (Caroe Jachmoenn)
+**13:00 - 16:00 | Decision trees and ensembles (Leslokaal -1.2. B3. Campus UZ Gent)** (Caroe Jachmoenn)
 
 Hands on: 
 
