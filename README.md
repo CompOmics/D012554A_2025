@@ -139,7 +139,7 @@ Lecture slides:
 [6_ensemble_learning.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_3/6_ensemble_learning.pptx)
 
 
-**10:15 - 11:30 | Kaggle and handson (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+**10:15 - 11:30 | Kaggle and hands on (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 [3.1a_Histone_marks_dt.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_3/3.1a_Histone_marks_dt.ipynb)
 
