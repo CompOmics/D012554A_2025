@@ -104,12 +104,12 @@ Hands on:
 **9:00 - 9:45 | Logistic regression and SVM (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
-[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+[3_logistic_regression.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_2/3_logistic_regression.pptx)
 
 **10:15 - 11:30 | Regularization (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
-[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+[4_regularization.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_2/4_regularization.pptx)
 
 ---
 
