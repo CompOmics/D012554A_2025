@@ -147,13 +147,20 @@ Lecture slides:
 
 ---
 
-**13:00 - 16:00 | Decision trees and ensembles (Leslokaal -1.2. B3. Campus UZ Gent)** (Caroe Jachmoenn)
+**13:00 - 16:00 | Decision trees and ensembles (Lokaal Leslokaal 3.2, K3, Campus UZ Gent . Campus UZ Gent)** (Caroe Jachmoenn)
 
 Hands on: 
 
 [3.1a_Histone_marks_dt.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_3/3.1a_Histone_marks_dt.ipynb)
 
 [3.1b_Exercises_Histone_marks_dt.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_3/3.1b_Exercises_Histone_marks_dt.ipynb)
+
+</details>
+
+### Day 5 (Friday - 6th March)
+
+<details>
+
 
 </details>
 
