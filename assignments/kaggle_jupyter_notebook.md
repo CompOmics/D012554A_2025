@@ -10,7 +10,7 @@ You are required to submit one comprehensive Kaggle Notebook that includes both 
     -   **Splitting of the datset:** How was the data splitted into several sets
     -   ...
 2.  **Results**
-    -   **Performance Metrics:** Present the evaluation metrics (accuracy, precision, recall, F1-score) and training times for all models
+    -   **Performance Metrics:** Present the evaluation metrics (e.g., mean absolute error, relative error, 95th percentile, ...) and training times for all models
     -   **Visualizations:** Include charts such as loss curves, accuracy plots, and any tables or graphs
 3.  **Discussion**
     -   **Analysis:** Highlight key conclusions and discuss them
