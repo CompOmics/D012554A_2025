@@ -179,7 +179,7 @@ Lecture slides:
 <details>
 
 ---
-**9:00 - 9:45 | Clustering & dimensionality reduction (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+**9:00 - 9:45 | Clustering & dimensionality reduction (Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans)** (Robbin Bouwmeester)
 
 Lecture slides:
 [7_clustering.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_5/7_clustering.pptx)
@@ -187,7 +187,7 @@ Lecture slides:
 Lecture slides:
 [8_dimensionality_reduction.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_5/8_dimensionality_reduction.pptx)
 
-**10:15 - 11:30 | Kaggle (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+**10:15 - 11:30 | Kaggle (Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans)** (Robbin Bouwmeester)
 
 ---
 
