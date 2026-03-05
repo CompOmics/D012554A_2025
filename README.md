@@ -179,7 +179,7 @@ Will be made available
 <details>
 
 ---
-**9:00 - 9:45 | Clustering (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+**9:00 - 9:45 | Clustering & dimensionality reduction (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
 [7_clustering.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_5/7_clustering.pptx)
