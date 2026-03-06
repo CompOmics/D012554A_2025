@@ -7,7 +7,7 @@ You are required to submit one comprehensive Kaggle Notebook that includes both 
 1.  **Methods** - anything used to go from data to predictions
     -   **Model Description:** Detail the machine learning algorithm(s) you used, including key hyperparameters.
     -   **Training Procedure:** Outline the training settings (e.g., learning rate, batch size, number of epochs) along with relevant code snippets.
-    -   **Splitting of the datset:** How was the data splitted into several sets
+    -   **Splitting of the dataset:** How was the data split into several sets
     -   ...
 2.  **Results**
     -   **Performance Metrics:** Present the evaluation metrics (e.g., mean absolute error, relative error, 95th percentile, ...) and training times for all models

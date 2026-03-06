@@ -1,7 +1,7 @@
 
 **Structure for the** **report:**
 
-Write a mini-paper about the kaggle project.
+Write a mini-paper about the Kaggle project.
 
 1.  **Title**
 
