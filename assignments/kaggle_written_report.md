@@ -29,7 +29,7 @@ Write a mini-paper about the Kaggle project.
 
 5.  **Discussion**
 
--   **Interpretation:** Discuss what your results imply about donor splice site prediction.
+-   **Interpretation:** Discuss what your results means for future development.
 -   **Strengths and Limitations:** Reflect on the advantages of your approach and potential limitations.
 -   **Future Work:** Suggest avenues for further research or model improvements.
 
